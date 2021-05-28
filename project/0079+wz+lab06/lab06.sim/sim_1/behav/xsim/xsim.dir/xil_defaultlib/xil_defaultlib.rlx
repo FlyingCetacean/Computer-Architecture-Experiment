@@ -1,0 +1,16 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Archlabs/lab06/lab06.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sim_1/new/Top_tb.v,1590143623,verilog,,,,Top_tb,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab03/lab03.srcs/sources_1/new/ALU.v,1589945132,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab03/lab03.srcs/sources_1/new/ALUCtr.v,,ALU,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab03/lab03.srcs/sources_1/new/ALUCtr.v,1589945293,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab03/lab03.srcs/sources_1/new/Ctr.v,,ALUCtr,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab03/lab03.srcs/sources_1/new/Ctr.v,1590083144,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab04/lab04.srcs/sources_1/new/Registers.v,,Ctr,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab04/lab04.srcs/sources_1/new/Registers.v,1590118880,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/new/Top.v,,Registers,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab04/lab04.srcs/sources_1/new/dataMemory.v,1590157128,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/new/inst_memory.v,,dataMemory,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab04/lab04.srcs/sources_1/new/signext.v,1590069100,verilog,,C:/Archlabs/lab06/lab06.srcs/sim_1/new/Top_tb.v,,signext,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/new/inst_memory.v,1590157136,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/new/mux32.v,,inst_memory,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/new/mux32.v,1590070498,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/new/mux5.v,,mux32,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/imports/new/mux5.v,1590119975,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab04/lab04.srcs/sources_1/new/signext.v,,mux5,,,,,,,,
+C:/Archlabs/lab06/lab06.srcs/sources_1/new/Top.v,1590141344,verilog,,C:/Archlabs/lab06/lab06.srcs/sources_1/imports/Archlabs/lab05/lab05.srcs/sources_1/imports/Archlabs/lab04/lab04.srcs/sources_1/new/dataMemory.v,,Top,,,,,,,,
